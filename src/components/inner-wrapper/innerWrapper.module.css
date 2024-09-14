@@ -1,0 +1,12 @@
+.innerWrapper {
+  max-width: var(--maxWidth);
+  margin: 0 auto;
+  position: relative;
+  padding-left: 30px;
+  padding-right: 30px;
+  @media (max-width: 700px) {
+    padding-left: 0;
+    padding-right: 0;
+   background: gold;
+  }
+}
