@@ -6,3 +6,7 @@ html,
 body {
   background: #000;
 }
+
+a {
+  color: aqua;
+}

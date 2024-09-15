@@ -1,5 +1,5 @@
 import styles from "./page.module.css";
-import InnerWrapper from "@/app/components/inner-wrapper";
+import InnerWrapper from "@/components/inner-wrapper";
 import Link from "next/link";
 
 export default function Home() {
