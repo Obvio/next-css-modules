@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.page}>
       <InnerWrapper>
         <h1 className={styles.h1}>Home Page</h1>
-        <Link href={'./other'}>Other page</Link>
+        <Link href='./other'>Other page</Link>
       </InnerWrapper>
     </div>
   );
