@@ -1,4 +1,4 @@
-import InnerWrapper from "@/components/inner-wrapper";
+import InnerWrapper from "@/app/components/inner-wrapper";
 import styles from './otherPage.module.css'
 
 export default async function OtherPage(){
